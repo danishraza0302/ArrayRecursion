@@ -6,6 +6,7 @@ public class linear {
         System.out.println(findx(arr, 9, 0));
 
     }
+    // searching the element direct to the array
     public static boolean find(int[] arr, int index,int trg){
         if(index == arr.length){
             return false;
