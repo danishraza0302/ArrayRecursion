@@ -24,4 +24,5 @@ public class linear {
             return findx(arr, trg, index + 1);
         }
     }
+    
 }
